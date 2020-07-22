@@ -19,7 +19,7 @@ The cookie when decoded with base64 gives you strawberry, a flavour that the nep
 
 You just need to change the cookie value to chocolate encoded in base64.
 
-Cookies always go with every request and on reload you would get the flag
+Cookies always go with every request and on reload you would get the flag.
 
 The flag is:
 
